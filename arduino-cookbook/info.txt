@@ -1,0 +1,7 @@
+- Arduino Software and Sketches
+  Software programs, called sketches, are created on a computer using the Arduino (IDE). 
+  The IDE enables you to write and edit code and convert this code into instructions that 
+  Arduino hardware understands. The IDE also transfers those instructions, in the form of 
+  compiled code, to the Arduino board (a process called uploading).
+
+

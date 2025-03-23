@@ -1,0 +1,87 @@
+- Wind energy increases by the cube of the speed, which means that each time the wind speed 
+  doubles, the amount of energy increases eight times. This is the reason that the shape of 
+  many automobiles is designed to move through the air with less friction. The wind resistance 
+  of an automobile traveling at 60 miles per hour will be eight times greater than when 
+  traveling at 30 miles per hour.
+
+- At best, incandescent lamps are about 5% efficient, which means that a 100-watt lamp actually
+  produces about 95 watts of heat and about 5 watts of light. They consume about 400% more 
+  energy to produce the same amount of light as a standard fluorescent lamp.
+
+- Light is measured in lumens. The lumens, a metric measure of light intensity as perceived by 
+  the human eye, is based on the English measurement of a candela. Basically, a light source that 
+  uniformly radiates 1 candela in all directions is equal to 4π lumens. Lighting efficiency is 
+  measured by the lumens produced by 1 watt of electricity (lumens per watt). 
+
+- High-pressure sodium is the most efficient, but it has a very orange color, making it unsuitable
+  for many applications. These lamps are generally used in outdoor applications such as parking 
+  lots and street lamps. Metal halide is also very efficient and has a near white color. These 
+  lamps are often used in large buildings like factories, warehouses, and commercial locations 
+  such as building supply stores. Florescent lighting is probably the type most used for homes, 
+  office buildings, and retail stores. Compact fluorescent lamps are replacing incandescent lamps 
+  in many homes. Although compact fluorescent lamps have an initial cost that is greater than 
+  incandescent lamps, they use about one-fourth the energy to produce a similar amount of light, 
+  and their average life expectancy is about 10 times longer. Because compact fluorescent lamps 
+  are more energy efficient, they produce less heat for the same amount of light, reducing the 
+  load on air-conditioning systems
+
+- A current of 2 to 3 milliamperes (mA) (0.002 to 0.003 amperes) usually causes a slight tingling
+  sensation, which increases as current increases and becomes very noticeable at about 10 milliamperes
+  (0.010 amperes). The tingling sensation is very painful at about 20 milliamperes. Currents between 
+  20 and 30 milliamperes cause a person to seize the line and be unable to let go of the circuit.
+  Currents between 30 and 40 milliamperes cause muscular paralysis, and those between 40 and 60 
+  milliamperes cause breathing difficulty. When the current increases to about 100 milliamperes, 
+  breathing is extremely difficult. Currents from 100 to 200 milliamperes generally cause death 
+  because the heart usually goes into fibrillation, a condition in which the heart begins to 
+  “quiver” and the pumping action stops. Currents above 200 milliamperes cause the heart to 
+  squeeze shut. When the current is removed, the heart usually returns to a normal pumping action.
+  This is the operating principle of a defibrillator. The voltage considered to be the most 
+  dangerous to work with is 120 volts, because that generally causes a current flow of between 
+  100 and 200 milliamperes through most people’s bodies.
+
+- OSHA
+  OSHA is an acronym for Occupational Safety and Health Administration, U.S. Department of Labor.
+  Created by Congress in 1971, its mission is to ensure safe and healthful workplaces in the United 
+  States. Since its creation, workplace fatalities have been cut in half and occupational injury 
+  and illness rates have declined by 40%. Enforcement of OSHA regulations is the responsibility 
+  of the Secretary of Labor.
+
+- Ground-fault circuit interrupters (GFCI) are used to prevent people from being electrocuted. 
+  They work by sensing the amount of current flow on both the ungrounded (hot) and grounded 
+  (neutral) conductors supplying power to a device. In theory, the amount of current in the two
+  conductors should be equal but opposite in polarity
+
+- GFCI Devices
+  Several devices can be used to provide ground-fault protection, including the ground-fault 
+  circuit breaker (Figure S–22). The circuit breaker provides ground-fault protection for an 
+  entire circuit, so any device connected to the circuit is ground-fault protected. A second 
+  method of protection, ground-fault receptacles (Figure S–23), provides protection at the 
+  point of attachment. They have some advantages over the GFCI circuit breaker. They can be 
+  connected so that they protect only the devices connected
+
+- Arc-Fault Circuit Interrupters (AFCIs)
+  Arc-fault circuit interrupters are similar to ground-fault circuit interrupters in that they 
+  are designed to protect people from a particular hazard. Where the ground-fault interrupter 
+  is designed to protect against electrocution, the arc-fault interrupter is intended to protect 
+  against fire.
+
+- Series Arc Faults
+  Series arc faults are generally caused by loose connections. A loose screw on an outlet terminal, 
+  or an improperly made wire nut connection, is a prime example of this type of problem. They are 
+  called series arc faults because the circuit contains some type of current-limiting resistance 
+  connected in series with the arc 
+
+- Arc-Fault Detection
+  There are conditions where arcing in an electric circuit is normal, such as these:
+● Turning a light switch on or off
+● Switching on or off of a motor relay
+● Plugging in an appliance that is already turned on
+● Changing a light bulb with the power turned on
+● Using motors that contain a commutator and brushes
+. The arc-fault circuit interrupter is designed to be able to distinguish between normally 
+  occurring arcs and an arc fault. An arc caused by a toggle switch being used to turn a light
+  on or off will produce a current spike of short duration, as shown in Figure S–27. An arc 
+  fault, however, is an intermittent connection and will generally produce current spikes of 
+  various magnitudes and lengths of time (Figure S–28).
+
+

@@ -1,0 +1,50 @@
+- The three principal parts of an atom are the electron, the neutron, and the proton. Although
+  most atoms contain these three principal parts, the smallest atom, hydrogen, does not contain 
+  a neutron (Figure 1–5). Hydrogen contains one proton and one electron. The smallest atom that 
+  contains neutrons is helium (Figure 1–6). Helium contains two protons, two neutrons, and two 
+  electrons. 
+
+- The neutrons and the protons combine to form the nucleus of the atom. Because the neutron 
+  has no charge, the nucleus has a net positive charge. The number of protons in the nucleus 
+  determines what kind of element an atom is.
+
+- The latest scientific measurements suggest that protons and neutrons weigh about 1838 times 
+  more than the electron and that the electron is approximately 1000 times smaller than a proton
+  (Figure 1–5). Previously, it was believed that the electron was about three times larger than
+  the proton.
+
+- why the protons of the nucleus do not repel each other because they all have the same charge.
+  Two theories attempt to explain this. The first theory asserted that the force of gravity 
+  held the nucleus together. Neutrons, like protons, are extremely massive particles. It was 
+  first theorized that the gravitational attraction caused by their mass overcame the repelling 
+  force of the positive charges. By the mid-1930s, however, it was known that the force of 
+  gravity could not hold the nucleus together. According to Coulomb’s law, the electromagnetic 
+  force in helium is about 1.1 3 1036 times greater than the gravitational force as determined 
+  by Newton’s law. In 1947, the Japanese physicist Hideki Yukawa identified a subatomic particle 
+  that acts as a mediator to hold the nucleus together. The particle is a quark known as a gluon.
+  The force of the gluon is about 102 times stronger than the electromagnetic force.
+
+- The orbit in which the electron exists is determined by the electron’s mass times its speed 
+  times the radius of the orbit. These factors must equal the positive force of the nucleus. 
+  In theory, there can be an infinite number of allowed orbits. Because the number of protons 
+  in the atom is equal to the number of electrons in the atom, the overall net charge of the 
+  atom is zero. This is the stable condition of the atom.
+
+- When an electron receives enough energy from some other source, it “quantum jumps” into a 
+  higher allowed orbit. Electrons, however, tend to return to a lower allowed orbit. When this 
+  occurs, the electron emits the excess energy as a single photon of electromagnetic energy. This 
+  movement of electrons caused by the external energy source is the basis of electric current flow.
+
+- The number of electrons that can be contained in any one orbit: 2N^2 
+  first orb: 2 x (1)^2 = 2     second orb: 2 x (2)^2 = 8     third 2 x (3)^2 = 18 
+  The fourth and fifth orbits cannot hold more than 32 electrons. Thirty-two is the maximum number 
+  of electrons that can be contained in any orbit: 2 x (4)^2 = 32
+
+- The outer shell of an atom is known as the valence shell. Any electrons located in the outer 
+  shell of an atom are known as valence electrons (Figure 1–16). The valence shell of an atom 
+  cannot hold more than 8 electrons. Atoms with 8 electrons in the valence shell are very stable.
+  Elements such as neon, argon, krypton, xenon, and radon all contain 8 valence electrons.
+  These elements are called noble
+
+
+
